@@ -1,0 +1,15 @@
+/home/adolfo/Área de Trabalho/Projetos/Messing/bin/Debug/net7.0/Messing
+/home/adolfo/Área de Trabalho/Projetos/Messing/bin/Debug/net7.0/Messing.deps.json
+/home/adolfo/Área de Trabalho/Projetos/Messing/bin/Debug/net7.0/Messing.runtimeconfig.json
+/home/adolfo/Área de Trabalho/Projetos/Messing/bin/Debug/net7.0/Messing.dll
+/home/adolfo/Área de Trabalho/Projetos/Messing/bin/Debug/net7.0/Messing.pdb
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.csproj.AssemblyReference.cache
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.GeneratedMSBuildEditorConfig.editorconfig
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.AssemblyInfoInputs.cache
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.AssemblyInfo.cs
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.csproj.CoreCompileInputs.cache
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.dll
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/refint/Messing.dll
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.pdb
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/Messing.genruntimeconfig.cache
+/home/adolfo/Área de Trabalho/Projetos/Messing/obj/Debug/net7.0/ref/Messing.dll
